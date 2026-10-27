@@ -1,0 +1,48 @@
+{
+  "app_title": "LifeSyncGames",
+
+  "label_email":         "Email:",
+  "label_password":      "Password:",
+  "placeholder_email":   "player@example.com",
+  "placeholder_password":"password",
+
+  "btn_login":           "Log in",
+  "btn_login_loading":   "Logging in...",
+  "btn_refresh":         "Refresh session",
+  "btn_refresh_loading": "Updating...",
+  "btn_logout":          "Log out",
+  "btn_language":        "ES",
+
+  "status_connecting":       "Connecting...",
+  "status_please_login":     "Please log in",
+  "status_verifying":        "Verifying session...",
+  "status_session_active":   "Session active",
+  "status_session_updated":  "Session updated",
+  "status_authenticating":   "Authenticating...",
+  "status_token_expired":    "Session expired — please log in again",
+  "status_token_refreshing": "Token expired — refreshing session...",
+  "status_updating":         "Updating session...",
+  "status_game_started":     "Game session started",
+  "status_game_ended":       "Game session ended",
+  "status_enter_credentials":"Enter email and password",
+
+  "status_error":             "Error: {name}",
+  "status_update_error":      "Update error: {name}",
+  "status_redeem_ok":         "Redeemed: {amount}× {name}",
+  "status_redeem_test":       "[TEST] Simulated redeem: {amount}× {name}",
+  "status_redeem_error":      "Redeem error: {msg}",
+  "status_game_start_error":  "Error starting game session: {name}",
+  "status_game_end_error":    "Error ending game session: {name}",
+  "status_sync_ok":           "Offline sync: {synced}/{total} synced",
+  "status_sync_partial":      "Offline sync: {synced}/{total} synced, {rejected} rejected",
+  "status_sync_error":        "Offline sync error: {name}",
+
+  "label_session_expires": "Session valid until {expiry}",
+  "label_no_dimensions":   "No dimension data",
+
+  "dim_social":      "Social",
+  "dim_fisico":      "Physical",
+  "dim_afectivo":    "Affective",
+  "dim_mental":      "Mental",
+  "dim_linguistico": "Linguistic"
+}

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Artefactos de build del mod (se regeneran desde LSGamesConnectMod/)
+*.pak
+*.zip
+
+# Secretos y datos locales
+.env
+*.local.json
+session.json
+catalog.json
+transactions.json
+
+# SO / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
